@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-diffusiondb"
+description = "This code gives you the quick access to 14 million text-to-image prompts from the DiffusionDB dataset."
+version = "1.0"
+license = "MIT"
+
+[project.urls]
+Repository = "https://github.com/rzgarespo/ComfyUI-diffusiondb"
+
+
+[tool.comfy]
+PublisherId = "Rzgar Espo"
+DisplayName = "comfyui-SDprompt"
+Icon = "🎨"
